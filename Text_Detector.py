@@ -12,7 +12,7 @@ import os
 
 # Initialize variables
 
-filename = "C:/Users/91949/Downloads/07-JUL_test_3-20240826T055520Z-001/07-JUL_test_3/balanced_dataset_15000.csv"
+filename = "balanced_dataset_15000.csv"
 
 # Function to load dataset
 def loadDataset():
